@@ -5,3 +5,8 @@ I got an invite to the [Google Foobar](https://medium.com/plutonic-services/thin
 This is a collection of my entries for a number of the challanges. I have included the original questions as well as the Python code I submitted. At the time, I was just getting into my stride with python, so some of my choices were a little naive looking back. 
 
 I'm comfortable admitting these are some of the hardest programming challenges I have ever done - they were pretty special to complete and I learnt a lot along the way.
+
+| Challenge                                                   |
+| ------------------------------------------------------------|
+| 2.1 - [Elevator Maintenance](https://github.com/readikus/code-samples/blob/main/google-foo-bar/Challenge_2_1_Elevator_Maintenance.ipynb) |
+
