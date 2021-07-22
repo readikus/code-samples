@@ -8,5 +8,7 @@ I'm comfortable admitting these are some of the hardest programming challenges I
 
 | Challenge                                                   |
 | ------------------------------------------------------------|
-| 2.1 - [Elevator Maintenance](https://github.com/readikus/code-samples/blob/main/google-foo-bar/Challenge_2_1_Elevator_Maintenance.ipynb) |
-
+| 2.1 [Elevator Maintenance](https://github.com/readikus/code-samples/blob/main/google-foo-bar/Challenge_2_1_Elevator_Maintenance.ipynb) |
+| 2.2 [Lovely Lucky LAMBs]                                    |
+| 3.1 [Prepare the Bunnies' Escape]                           |
+] 3.2 [Doomsday Fuel]                                         |
