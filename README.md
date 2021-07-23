@@ -9,3 +9,11 @@ A friend put me on to Leetcode a few years ago, and it was a great way to test w
 ## Google Foo Bar
 
 I was idlying Googling something to help me with a python package I was building, and suddenly the Google search results page changed in a rather suprising way. Before I knew it, I was at a web terminal doing some simple coding challenges. I didn't make a note of my solution to the first round, but it was "FizzBuzz" level, and I was able to do it in the web terminal within a few minutes. By the time the 2nd round kicked in, the solutions were less trivial. At the end of the third round, my brain was seriously hurting. This coincided with the start of the first COVID lockdown and the arrival of my (then) puppy, so whilst I throughly enjoyed these challenges, my mind wasn't fully focused, so I had a pause.
+
+# Open Source Libraries:
+
+## Royston
+
+## Clumps
+
+## Node Study Guide
