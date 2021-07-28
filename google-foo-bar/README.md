@@ -8,9 +8,9 @@ I'm comfortable admitting these are some of the hardest programming challenges I
 
 Worth noting that one of the requirements was that third party dependancies were not allowed, so things like matrix operations had to be implemented where necessary.
 
-| Challenge                                                              |
-| -----------------------------------------------------------------------|
-| 2.1 [Elevator Maintenance](./Challenge_2_1_Elevator_Maintenance.ipynb) |
-| 2.2 [Lovely Lucky LAMBs](./Challenge_2_1_Lovely_Lucky_LAMBs.ipynb)     |
-| 3.1 [Prepare the Bunnies' Escape]                           |
-] 3.2 [Doomsday Fuel]                                         |
+| Challenge                                                                            |
+| -------------------------------------------------------------------------------------|
+| 2.1 [Elevator Maintenance](./Challenge_2_1_Elevator_Maintenance.ipynb)               |
+| 2.2 [Lovely Lucky LAMBs](./Challenge_2_1_Lovely_Lucky_LAMBs.ipynb)                   |
+| 3.1 [Prepare the Bunnies' Escape](./Challenge_3_1_Prepare_the_Bunnies'_Escape.ipynb) |
+] 3.2 [Doomsday Fuel]                                                                  |
